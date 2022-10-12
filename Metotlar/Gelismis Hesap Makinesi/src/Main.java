@@ -33,7 +33,7 @@ public class Main {
         int result = 0;
         for (int i = 1; i <= b; i++) {
             result *= a;
-            System.out.println("Üs alma işlemi: " + power());
+            System.out.println("Üs alma işlemi: " + power(a,b));
         }
         return result;
     }
