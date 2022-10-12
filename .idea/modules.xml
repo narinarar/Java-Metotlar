@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java101-Metotlar.iml" filepath="$PROJECT_DIR$/Java101-Metotlar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Metotlar/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/Metotlar/Palindrom/Palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/Recursive Fibonacci/Recursive Fibonacci.iml" filepath="$PROJECT_DIR$/Metotlar/Recursive Fibonacci/Recursive Fibonacci.iml" />
     </modules>
   </component>
 </project>
